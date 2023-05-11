@@ -1,0 +1,1 @@
+select name, pop_max from ne_110m_populated_places order by pop_max DESC

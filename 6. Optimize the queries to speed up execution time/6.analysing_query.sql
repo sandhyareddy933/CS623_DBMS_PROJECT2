@@ -1,0 +1,1 @@
+explain analyze select last_name from user_details where last_name like '%john%'

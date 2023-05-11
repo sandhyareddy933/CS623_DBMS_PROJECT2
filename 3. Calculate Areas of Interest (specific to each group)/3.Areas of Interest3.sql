@@ -1,0 +1,1 @@
+SELECT ST_Area(geom) AS area FROM ne_110m_admin_0_countries
